@@ -10,3 +10,8 @@ I'm just learning git ...
 > I speak french so ...
 
 *... my english isn't perfect.*
+
+#### If you want to run my project, just type this into a terminal :
+```
+./hello.sh
+```
