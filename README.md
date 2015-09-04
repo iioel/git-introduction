@@ -1,4 +1,5 @@
-##### git-introduction
+git-introduction
+================
 
 ```
 I'm just learning git ...
