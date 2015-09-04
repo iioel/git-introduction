@@ -1,3 +1,3 @@
 #!/bin/sh
 
-ruby hello.rb
+ruby hello.rb # Run rubis's script
