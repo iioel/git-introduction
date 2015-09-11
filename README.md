@@ -15,3 +15,19 @@ I'm just learning git ...
 ```
 ./hello.sh
 ```
+================================================================================
+
+```
+Je suis juste entrain d'apprendre git ...
+```
+
+**... et le formatage pour le fichier README.md.**
+
+> Je parle français donc ...
+
+*... mon anglais n'est pas parfait.*
+
+#### Si vous voulez, il suffit juste de tapper cette commande dans un terminal :
+```
+./hello.sh
+```
